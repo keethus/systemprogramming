@@ -2,8 +2,8 @@
 // Database details.
 $serverName ='127.0.0.1';
 $userName = 'dbman';
-$pass = 'w3Xp7Ug7ZtNQAT5h';
-$db_name = 'karlis_barbars';
+$pass = 'pass';
+$db_name = 'dbname';
 
 // Try to connect to database.
 try {
