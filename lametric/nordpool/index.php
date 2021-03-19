@@ -2,7 +2,7 @@
 // Database information.
 $serverName ='127.0.0.1';
 $userName = 'dbman';
-$pass = 'w3Xp7Ug7ZtNQAT5h';
+$pass = 'XXXXXXXXXXXXX';
 $db_name = 'karlis_barbars';
 
 try {
