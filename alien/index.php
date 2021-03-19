@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <?  
-$jsonData = json_decode(file_get_contents('../lametric/alien/alien-webhook.json'), true);
+$jsonData = json_decode(file_get_contents('../lametric/alien/XXXXXX-XXXXXXX.json'), true);
 
 if($jsonData['sosmode'] == 1) {
     $sosIcon = "fas fa-lightbulb";
