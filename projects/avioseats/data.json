@@ -1,0 +1,656 @@
+{
+    "seats": [
+        [
+            {
+                "active": 1,
+                "time": "02:06:06",
+                "specific": true
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:08",
+                "specific": true
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:11",
+                "specific": true
+            }
+        ],
+        [
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "18:37:41",
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:10",
+                "specific": true
+            },
+            {
+                "active": 1,
+                "time": "18:37:38",
+                "specific": true
+            }
+        ],
+        [
+            {
+                "active": 1,
+                "time": "14:37:16",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:13",
+                "specific": true
+            },
+            {
+                "active": 1,
+                "time": "18:37:41",
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "16:13:02",
+                "specific": false
+            }
+        ],
+        [
+            {
+                "active": 1,
+                "time": "02:06:28",
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "14:37:12",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "16:13:19",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:28",
+                "specific": false
+            }
+        ],
+        [
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "18:37:41",
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:28",
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            }
+        ],
+        [
+            {
+                "active": 1,
+                "time": "18:37:24",
+                "specific": true
+            },
+            {
+                "active": 1,
+                "time": "02:06:36",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:18",
+                "specific": true
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "16:13:19",
+                "specific": false
+            }
+        ],
+        [
+            {
+                "active": 1,
+                "time": "02:06:24",
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "16:12:53",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:24",
+                "specific": false
+            }
+        ],
+        [
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "18:37:28",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "18:37:41",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:24",
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            }
+        ],
+        [
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:27",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "14:37:12",
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            }
+        ],
+        [
+            {
+                "active": 1,
+                "time": "02:06:28",
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "16:12:53",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:28",
+                "specific": false
+            }
+        ],
+        [
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:27",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:28",
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            }
+        ],
+        [
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:36",
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "18:37:41",
+                "specific": false
+            }
+        ],
+        [
+            {
+                "active": 1,
+                "time": "02:06:23",
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "18:37:28",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "16:12:44",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:23",
+                "specific": false
+            }
+        ],
+        [
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:23",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "14:37:12",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:23",
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            }
+        ],
+        [
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "18:37:28",
+                "specific": false
+            }
+        ],
+        [
+            {
+                "active": 1,
+                "time": "02:06:36",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "18:37:28",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:23",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "14:37:16",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:28",
+                "specific": false
+            }
+        ],
+        [
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:28",
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:28",
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            }
+        ],
+        [
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "16:13:19",
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "16:12:44",
+                "specific": false
+            }
+        ],
+        [
+            {
+                "active": 1,
+                "time": "02:06:24",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "16:13:19",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:36",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "14:37:16",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:24",
+                "specific": false
+            }
+        ],
+        [
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:27",
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:27",
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            }
+        ],
+        [
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:27",
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "16:13:19",
+                "specific": false
+            }
+        ],
+        [
+            {
+                "active": 1,
+                "time": "02:06:36",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "16:12:53",
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "16:12:44",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "02:06:28",
+                "specific": false
+            }
+        ],
+        [
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "14:37:12",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "14:37:16",
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "14:37:12",
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            }
+        ],
+        [
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 0,
+                "time": null,
+                "specific": false
+            },
+            {
+                "active": 1,
+                "time": "18:37:34",
+                "specific": true
+            },
+            {
+                "active": 1,
+                "time": "14:37:16",
+                "specific": false
+            }
+        ]
+    ],
+    "general": {
+        "rows": 24,
+        "flight": 6
+    }
+}

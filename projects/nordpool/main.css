@@ -1,0 +1,188 @@
+* {
+    font-family: 'Monseratt', sans-serif;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background: #67b26f; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #67b26f, #4ca2cd); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #67b26f, #4ca2cd); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.container {
+    display: flex;
+    height: 100%;
+    background: #67b26f; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #67b26f, #4ca2cd); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #67b26f, #4ca2cd); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.box {
+    background-color: #fff;
+    margin: 20px auto;
+    width: 100%;
+    max-width: 800px;
+    padding: 20px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 4px 13px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 4px 13px -1px rgba(0,0,0,0.75);
+    box-shadow: 0px 4px 13px -1px rgba(0,0,0,0.75);
+    position: relative;
+}
+
+.box .title {
+    text-transform: uppercase;
+    margin: 0 0 10px 0;
+    color: #67b26f; 
+    text-align: center;
+}
+
+.dropdown {
+    height: 5vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.sortby, .searchhour, .underavg {
+    position: relative;
+    
+}
+
+ul,li {
+    list-style: none;
+    list-style-position:inside;
+    padding: 0;
+}
+
+.sortby ul {
+    position: absolute;
+    margin-top: 0px;
+    width: 170px;
+    height: 170px;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 4px 13px -1px rgba(0,0,0,0.1);
+    -moz-box-shadow: 0px 4px 13px -1px rgba(0,0,0,0.1);
+    box-shadow: 0px 4px 13px -1px rgba(0,0,0,0.1);
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(10px);
+    transition: all 0.3s ease;
+}
+.searchhour ul {
+    position: absolute;
+    margin-top: 0px;
+    width: 130px;
+    height: 700px;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 4px 13px -1px rgba(0,0,0,0.1);
+    -moz-box-shadow: 0px 4px 13px -1px rgba(0,0,0,0.1);
+    box-shadow: 0px 4px 13px -1px rgba(0,0,0,0.1);
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(10px);
+    transition: all 0.3s ease;
+}
+
+.sortby a, .searchhour a{
+    color: black;
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sortby li, .searchhour li {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.sortby li:hover, .searchhour li:hover {
+    background-color:#67b26f4d;
+}
+
+.dropdown button {
+    background: none;
+    border: none;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    text-transform: uppercase;
+    color:#4ca2cd;
+}
+
+.dropdown button:hover {
+    color: #67b26f;
+}
+
+.dropdown button:focus {
+    outline: 0;
+}
+
+.dropdown button:hover + ul, .sortby ul:hover, .searchhour ul:hover {
+    opacity: 1;
+    pointer-events: all;
+    transform: translateY(-3px);
+}
+
+.datacontainer {
+    width: 100%;
+    display: flex;
+    margin-top: 50px;
+}
+
+
+.data {
+    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 50%;
+
+}
+
+.shortdata {
+    width: 50%;
+    justify-content: space-around;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.time, .price {
+    padding: 10px;
+
+}
+
+.data ul li {
+    padding-bottom: 5px;
+}
+
+.shortdata ul li {
+    padding-bottom: 20px;
+}
+
+.currentdate {
+    font-size: 24px;
+
+}
