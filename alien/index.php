@@ -18,7 +18,7 @@ print_r($jsonData);
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet">
 </head>
 <body>
-    <form action="https://api.particle.io/v1/devices/e00fce68bbfafdf81ddefb0d/CallTheAlien?access_token=a55ed7f30fe467475d1176ddf25f6265f483aff0" method="POST" target="hiddenFrame">
+    <form action="https://api.particle.io/v1/devices/XXXXXXXXXXX/CallTheAlien?access_token=XXXXXXXXXXXXXXXXXXXX" method="POST" target="hiddenFrame">
 
      <button type="submit" name="arg" value="SOS"><i class="<?=$sosIcon?>" style="font-size: 90px;"></i></button>
 
